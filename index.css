@@ -1,0 +1,21 @@
+.link {
+  color: white;
+}
+
+.link:hover {
+  color: rgba(185, 185, 185, 0.888);
+}
+
+.description-back {
+  background-color: rgba(0, 0, 0, 0.384);
+}
+
+.slide-image {
+  height: 30rem;
+}
+
+.featured-items {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
