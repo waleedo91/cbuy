@@ -1,3 +1,7 @@
+* {
+  font-family: sans-serif, serif, "Times New Roman";
+}
+
 .link {
   color: white;
 }
@@ -18,4 +22,13 @@
   display: flex;
   justify-content: space-around;
   margin: 20px;
+}
+
+.item-description {
+  text-align: center;
+}
+
+.main-section {
+  margin-top: 50px;
+  margin-bottom: 100px;
 }

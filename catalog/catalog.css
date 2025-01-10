@@ -1,0 +1,15 @@
+.catalog-section {
+  margin-top: 100px;
+}
+
+#catalog-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-basis: 40%;
+  list-style: none;
+}
+
+.list-item {
+  margin: 5px;
+}

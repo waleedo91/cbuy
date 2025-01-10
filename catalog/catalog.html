@@ -17,12 +17,16 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="../index.css" />
+    <link rel="stylesheet" href="./catalog.css" />
   </head>
 
   <body>
     <header>
       <!-- place navbar here -->
-      <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+      <nav
+        class="navbar navbar-expand-lg fixed-top bg-primary"
+        data-bs-theme="dark"
+      >
         <div class="container-fluid">
           <a class="navbar-brand" href="../index.html">C-Buy!</a>
           <button
@@ -69,10 +73,16 @@
         </div>
       </nav>
     </header>
-    <main></main>
+    <main class="main-section">
+      <div class="catalog-section">
+        <ul id="catalog-list">
+          
+        </ul>
+      </div>
+    </main>
     <footer>
       <!-- place footer here -->
-      <nav class="navbar sticky-bottom bg-primary" data-bs-theme="dark">
+      <nav class="navbar fixed-bottom bg-primary" data-bs-theme="dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="../index.html">C-Buy!</a>
         </div>
@@ -90,5 +100,6 @@
       integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
       crossorigin="anonymous"
     ></script>
+    <script src="./catalog.js"></script>
   </body>
 </html>

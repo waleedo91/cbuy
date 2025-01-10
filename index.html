@@ -23,7 +23,10 @@
   <body>
     <header>
       <!-- place navbar here -->
-      <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+      <nav
+        class="navbar navbar-expand-lg fixed-top bg-primary"
+        data-bs-theme="dark"
+      >
         <div class="container-fluid">
           <a class="navbar-brand" href="./index.html">C-Buy!</a>
           <button
@@ -67,7 +70,7 @@
         </div>
       </nav>
     </header>
-    <main>
+    <main class="main-section">
       <div id="carouselExampleCaptions" class="carousel">
         <div class="carousel-indicators">
           <button
@@ -162,8 +165,9 @@
             class="card-img-top"
             alt="..."
           />
-          <div class="card-body">
-            <h5 class="card-title" style="text-align: center">Card title</h5>
+          <div class="card-body item-description">
+            <h5 class="card-title">Card title</h5>
+            <p>$1999.99</p>
           </div>
         </div>
         <div class="card" style="width: 18rem">
@@ -172,8 +176,9 @@
             class="card-img-top"
             alt="..."
           />
-          <div class="card-body">
-            <h5 class="card-title" style="text-align: center">Card title</h5>
+          <div class="card-body item-description">
+            <h5 class="card-title">Card title</h5>
+            <p>$299.99</p>
           </div>
         </div>
         <div class="card" style="width: 18rem">
@@ -182,8 +187,9 @@
             class="card-img-top"
             alt="..."
           />
-          <div class="card-body">
-            <h5 class="card-title" style="text-align: center">Card title</h5>
+          <div class="card-body item-description">
+            <h5 class="card-title">Card title</h5>
+            <p>$399.99</p>
           </div>
         </div>
         <div class="card" style="width: 18rem">
@@ -192,15 +198,16 @@
             class="card-img-top"
             alt="..."
           />
-          <div class="card-body">
-            <h5 class="card-title" style="text-align: center">Card title</h5>
+          <div class="card-body item-description">
+            <h5 class="card-title">Card title</h5>
+            <p>$499.99</p>
           </div>
         </div>
       </div>
     </main>
     <footer>
       <!-- place footer here -->
-      <nav class="navbar sticky-bottom bg-primary" data-bs-theme="dark">
+      <nav class="navbar fixed-bottom bg-primary" data-bs-theme="dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="./index.html">C-Buy!</a>
         </div>
