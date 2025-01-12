@@ -2,6 +2,7 @@ const jsonData = fetch("../products.json")
   .then((response) => response.json())
   .then((data) => data);
 
+// Uses the fetch request above to capture the products.json file to get all products and create a list of the products in proper format.
 async function dataList(products) {
   const listData = await products;
   const listSection = document.getElementById("catalog-list");
