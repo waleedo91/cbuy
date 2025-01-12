@@ -1,44 +1,32 @@
 [
   {
-    "name": "Samsung Galaxy Zfold 6",
-    "price": "1,999.99",
-    "real_price": "25,999",
-    "img": "http://www.lg.com/us/images/tvs/md05802269/gallery/medium01.jpg"
+    "name": "Apple Iphone 14",
+    "price": "999.99",
+    "img": "https://m.media-amazon.com/images/I/61bK6PMOC3L.jpg"
   },
   {
-    "name": "Samsung Tv 40 inch",
-    "price": "20,999",
-    "real_price": "24,999",
-    "img": "http://www.220-electronics.com/media/catalog/product/s/o/sony-kdl55hx750multi-system-tv-angle_1.png"
+    "name": "Samsung Galaxy Z fold 6",
+    "price": "1999.99",
+    "img": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold6/gallery/01-Q6-Black-1600x1200.jpg?$product-details-jpg$"
   },
   {
-    "name": "Panasonic Tv",
-    "price": "19,999",
-    "real_price": "22,999",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/61Ekm1BJYbL._SX355_.jpg"
+    "name": "Playstation 5",
+    "price": "499.99",
+    "img": "https://m.media-amazon.com/images/I/51QKZfyi-dL.jpg"
   },
   {
-    "name": "Sony Tv 50 inch",
-    "price": "28,999",
-    "real_price": "35,999",
-    "img": "http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sony-kdl55hx750multi-system-tv_1.png"
+    "name": "Xbox Series X",
+    "price": "399.99",
+    "img": "https://cms-assets.xboxservices.com/assets/bc/40/bc40fdf3-85a6-4c36-af92-dca2d36fc7e5.png?n=642227_Hero-Gallery-0_A1_857x676.png"
   },
   {
-    "name": "Sharp Tv",
-    "price": "29,999",
-    "real_price": "34,999",
-    "img": "http://blackfridaytvs.com/wp-content/uploads/2014/11/Sharp-AQUOS-60-LED-1080p-Smart-HDTV-Black-LC-60LE644U-Best-Buy-SKU-8890013.png"
+    "name": "Samsung galaxy buds3 pro",
+    "price": "250.00",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk7MQ5ZHEjEYRmK54moZG8B5Ejig5_C3uxw&s"
   },
   {
-    "name": "Toshiba Tv",
-    "price": "32,999",
-    "real_price": "36,999",
-    "img": "http://www.1a20.com/wp-content/uploads/2012/11/4758734_S1E2.png"
-  },
-  {
-    "name": "Vizio Tv",
-    "price": "51,999",
-    "real_price": "79,999",
-    "img": "http://blackfridaytvs.com/wp-content/uploads/2014/11/VIZIO-50-Class-LED-1080p-240Hz-Smart-HDTV-M502I-B1-Best-Buy-SKU-7501014-300x257.png"
+    "name": "Samsung 65 Crystal UHD TV",
+    "price": "499.99",
+    "img": "https://i5.walmartimages.com/asr/76dee158-ffd0-4079-a123-3e5fddf78b2f.6719440f3a664032aa339e2f7841256a.jpeg"
   }
 ]
